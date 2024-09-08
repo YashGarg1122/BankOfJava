@@ -45,7 +45,7 @@
 
 1. **Create an Account**:
     - Select the "Create Account" option.
-    - Enter a 10-digit account number, your name, a password, and an initial balance.
+    - Enter a 3-digit account number, your name, a password, and an initial balance.
 
 2. **Login**:
     - Select the "Login" option.
@@ -61,15 +61,15 @@
 ## Database Schema
 
 - **`accounts` Table**:
-  - `account_number` (BIGINT UNSIGNED): Unique account number.
+  - `account_number` (INT): Unique account number.
   - `name` (VARCHAR(100)): Account holder's name.
   - `password` (VARCHAR(100)): Account password.
   - `balance` (DOUBLE): Current account balance.
 
 - **`transactions` Table**:
   - `transaction_id` (INT AUTO_INCREMENT PRIMARY KEY): Unique transaction identifier.
-  - `account_from` (BIGINT UNSIGNED): Sender's account number.
-  - `account_to` (BIGINT UNSIGNED): Recipient's account number.
+  - `account_from` (INT): Sender's account number.
+  - `account_to` (INT): Recipient's account number.
   - `amount` (DOUBLE): Amount of money transferred.
   - `transaction_date` (DATETIME): Date and time of the transaction.
 
