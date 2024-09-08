@@ -24,7 +24,7 @@
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/yourusername/bank-of-java.git
-    cd bank-of-java
+    cd BankOfJava
     ```
 
 2. **Configure Database**:
@@ -75,7 +75,7 @@
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL 3 License.
 
 ## Contributing
 
@@ -83,4 +83,4 @@ Feel free to submit issues or pull requests. Your contributions are welcome!
 
 ## Contact
 
-For any questions or feedback, please contact [your email](mailto:your-email@example.com).
+For any questions or feedback, please contact [connect.yashgarg@gmail.com](mailto:connect.yashgarg@gmail.com).
