@@ -6,7 +6,7 @@ import java.util.Date;
 public class BankOfJava {
     static final String DB_URL = "jdbc:mysql://localhost:3306/";
     static final String USER = "root";
-    static final String PASS = "7796";
+    static final String PASS = "--Your MYSQL Password--";
     static final String DB_NAME = "BOJ";
     
     public static void main(String[] args) {
