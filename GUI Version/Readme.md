@@ -1,5 +1,3 @@
-Sure! Here's the Markdown code that you can copy and paste directly into your `README.md` file on GitHub:
-
 ```markdown
 # Bank of Java
 
@@ -77,13 +75,13 @@ If you have suggestions or improvements, feel free to submit a pull request or o
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL 3.0 License.
 
 ## Contact
 
 For any questions or feedback, please reach out to:
 
-- **Yash Garg** - [Your Email Address]
+- **Yash Garg** - connect.yashgarg@gmail.com
 
 ## Acknowledgements
 
@@ -91,5 +89,3 @@ For any questions or feedback, please reach out to:
 - **MySQL** for the database management system.
 - **JDBC** for database connectivity.
 ```
-
-Replace `[Your Email Address]` with your actual email address if you want to include it. This template should help you get started with your project documentation on GitHub.
