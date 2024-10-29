@@ -23,7 +23,7 @@
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/bank-of-java.git
+    git clone https://github.com/YashGarg1122/bankofjava.git
     cd BankOfJava
     ```
 
